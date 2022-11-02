@@ -131,15 +131,3 @@ h1 {
         margin-bottom: 2rem;
     }
 }
-
-/* Bellow 480px */
-@media (max-width: 30em) {
-    .again {
-        left: 13rem;
-    }
-    .between {
-        top: 10rem;
-        left: 2rem;
-        text-align: center;
-    }
-}
