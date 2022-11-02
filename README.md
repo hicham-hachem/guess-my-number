@@ -1,2 +1,2 @@
 # guess-my-number
-jonas - JS course - project 1
+JS course - project 1
